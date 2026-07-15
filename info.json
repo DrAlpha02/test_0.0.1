@@ -1,0 +1,8 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "title": "в разработке..",
+  "author": "dr_alpha02",
+  "factorio_version": "2.0",
+  "dependencies": ["base"]
+}
