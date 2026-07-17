@@ -1,0 +1,43 @@
+License Agreement for [ДОБАВИТЬ ПОЗЖЕ]
+Copyright (c) 2026 by dr_alpha02
+
+This mod (hereinafter referred to as the "Work"), including all source code, graphical assets, sounds, texts, and game mechanics, is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+
+The full legal text of the license is available at:https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+You are free to:
+Share — copy and redistribute the material in any medium or format.
+Adapt — remix, transform, and build upon the material.
+Under the following terms:
+Attribution (BY) — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+NonCommercial (NC) — You may not use the material for commercial purposes. You cannot sell this mod, its parts, or access to it. Using its code or assets in commercial projects without separate written permission from the Author is strictly prohibited.
+ShareAlike (SA) — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original (CC BY-NC-SA 4.0). If you use code or textures from this mod for your own mod, your mod must also be open-source, free, and licensed under CC BY-NC-SA 4.0.
+Factorio Modding Specifics:
+Integration: This license applies exclusively to the code and assets of this mod. The game Factorio and its engine are the property of Wube Software. The use of this mod is subject to the Factorio EULA.
+Modpacks: You are allowed to include this mod in public modpacks, provided the modpack is distributed completely free of charge and the author of this mod is credited in the modpack description.
+Compatibility Patches: You may create and publish compatibility patches for other mods without separate permission, provided you comply with the Attribution (BY) and ShareAlike (SA) terms for the patch code.
+Disclaimer:
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR ASSUMES NO LIABILITY FOR GAME CRASHES, LOSS OF SAVE FILES, OR CONFLICTS WITH OTHER MODS.
+
+Contact: dr_alpha02 (Discord)
+
+РУССКИЙ
+Этот мод (далее — "Произведение"), включая весь исходный код, графические ассеты, звуки, тексты и игровые механики, распространяется на условиях лицензии Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ("Атрибуция — Некоммерческое использование — На тех же условиях 4.0 Всемирная").
+
+Полный юридический текст лицензии доступен по адресу:https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Вы свободны:
+Делиться (Share) — копировать и распространять материал на любом носителе и в любом формате.
+Адаптировать (Adapt) — ремикшировать, изменять и создавать новые материалы на основе Произведения.
+При обязательном соблюдении следующих условий:
+Указание авторства (BY) — Вы должны указать авторство оригинального Произведения, предоставить ссылку на лицензию и указать, были ли внесены изменения. Это должно быть сделано в разумной манере, но не так, чтобы создавалось впечатление, что лицензиар поддерживает вас или использование вами Произведения.
+Некоммерческое использование (NC) — Вы не можете использовать Произведение в коммерческих целях. Вам запрещено продавать этот мод, его части или доступ к нему за реальные деньги. Использование кода или ассетов мода в проектах, приносящих прямую коммерческую выгоду, без отдельного письменного разрешения Автора строго запрещено.
+Распространение на тех же условиях (SA) — Если вы ремикшируете, изменяете или иным образом трансформируете Произведение, вы должны распространять свои новые материалы на условиях той же лицензии (CC BY-NC-SA 4.0), что и оригинал. Если вы берете код или текстуры из этого мода для своего мода, ваш мод также должен быть открытым, бесплатным и распространяться по лицензии CC BY-NC-SA 4.0.
+Дополнительные условия для Factorio-модов:
+Интеграция с игрой: Данная лицензия распространяется исключительно на код и ассеты данного мода. Сама игра Factorio и её движок принадлежат Wube Software. Использование мода подчиняется пользовательскому соглашению (EULA) игры Factorio.
+Модпаки: Вы имеете право включать данный мод в публичные сборки модов (modpacks), при условии, что сборка распространяется абсолютно бесплатно и в описании сборки указан автор данного мода.
+Патчи совместимости: Вы можете создавать и публиковать файлы совместимости (патчи) для других модов без отдельного разрешения, при условии соблюдения пунктов указания авторства (BY) и сохранения лицензии (SA) на код патча.
+Отказ от ответственности:
+ПРОИЗВЕДЕНИЕ ПРЕДОСТАВЛЯЕТСЯ "КАК ЕСТЬ", БЕЗ КАКИХ-ЛИБО ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ ГАРАНТИЙ. АВТОР НЕ НЕСЕТ ОТВЕТСТВЕННОСТИ ЗА ВОЗМОЖНЫЕ СБОИ ИГРЫ, ПОТЕРЮ СОХРАНЕНИЙ ИЛИ КОНФЛИКТЫ С ДРУГИМИ МОДАМИ.
+
+Связь с автором: dr_alpha02 (Discord)
